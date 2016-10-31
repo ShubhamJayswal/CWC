@@ -1,2 +1,4 @@
 # CWC
-My magic work
+My magic work.
+
+Let's get started on a new journey.
